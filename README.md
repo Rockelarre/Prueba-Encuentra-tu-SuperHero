@@ -8,16 +8,23 @@
 Contenidos Desarrollados:
 
 -  Capturar la información ingresada mediante eventos del DOM con jQuery.
+
 - Implementar funciones para separar la captura de la información ingresada
 por el usuario con la consulta a la API.
+
 - Validar la información ingresada por el usuario.
-- Consultar la API mediante AJAX con la sintaxis de jQuery
+
+- Consultar la API mediante AJAX con la sintaxis de jQuery.
+
 - Renderizar la información recibida por la API dinámicamente utilizando
 tarjetas (card) de Bootstrap.
+
 - Utilizar ciclos y métodos para arreglos u objetos que permitan recorrer,
 ordenar y mostrar la información.
+
 - Emplear la librería de gráficos CanvasJS, para mostrar dinámicamente
 información.
+
 - Implementar estructuras condicionales para generar alertas cuando existan
 errores en la búsqueda.
 
